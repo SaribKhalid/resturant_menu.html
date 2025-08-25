@@ -47,5 +47,4 @@ The page highlights the menu, allows adding items to cart, and provides an order
   - `Checkout` → dark brown with cream text  
 
 ---
-   git clone https://github.com/your-username/sweetie-sweets.git
 
